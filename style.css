@@ -1,0 +1,55 @@
+#nb{
+    height: 40px;
+    background-color: black;
+}
+
+#logo{
+    color: orange;
+    text-decoration: none;
+    text-align: center;
+    font-size: 30px;
+}
+
+#ct{
+ height: 560px;
+}
+
+.buy{
+    color: white;
+    margin: 120px;
+    font-size: large;
+    text-decoration: none;
+}
+
+button{
+    background-color: orange;
+}
+
+#fb{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 30px;
+}
+
+#b1{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255,0,0,0.5);
+    border: 2px solid black;
+}
+#b2{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: rgba(0,255,0,0.5);
+    border: 2px solid black;
+}
+#b3{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: rgba(0,0,255,0.5);
+    border: 2px solid black;
+}
