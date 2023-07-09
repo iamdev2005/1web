@@ -1,2 +1,2 @@
 # 1web
-first clonevwebsite (under-development)
+first clone website (under-development)
