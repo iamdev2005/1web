@@ -1,0 +1,36 @@
+#nb{
+    height: 8vw;
+    background-color: black;
+}
+
+#logo{
+    color: orange;
+    text-decoration: none;
+    text-align: center;
+    font-size: 6vw;
+}
+
+
+#ct{
+ height: 70vh;
+}
+
+.buy{
+    color: white;
+    margin: 5vw;
+    font-size: small;
+    text-decoration: none;
+    text-align: left;
+}
+
+button{
+    background-color: orange;
+}
+
+#fb{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 20vh;
+}
+
