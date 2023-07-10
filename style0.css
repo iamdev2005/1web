@@ -1,26 +1,31 @@
 #nb{
-    height: 8vw;
+    height: 30px;
     background-color: black;
 }
 
+#lb{
+    height: 50px;
+    background-color: black;
+}
 #logo{
     color: orange;
     text-decoration: none;
-    text-align: center;
-    font-size: 6vw;
+    margin-left: 20px;
+    
+    font-size: 40px;
 }
 
 
 #ct{
- height: 70vh;
+ height: 600px;
 }
 
 .buy{
     color: white;
-    margin: 5vw;
-    font-size: small;
+    margin-top: 5px;
+    margin-left: 7VW;
     text-decoration: none;
-    text-align: left;
+    
 }
 
 button{
@@ -31,6 +36,8 @@ button{
     background-color: black;
     color: white;
     text-align: center;
-    height: 20vh;
+    height: 80px;
 }
-
+#cr{
+    margin-top: 50px;
+}
