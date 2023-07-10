@@ -1,24 +1,31 @@
 #nb{
-    height: 40px;
+    height: 30px;
+    width: 100VW;
     background-color: black;
 }
+
 
 #logo{
     color: orange;
     text-decoration: none;
-    text-align: center;
-    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 30PX;
+    
+    font-size: 40px;
 }
 
+
 #ct{
- height: 560px;
+ height: 600px;
 }
 
 .buy{
     color: white;
-    margin: 120px;
-    font-size: large;
+    margin-top: 5px;
+    margin-left: 5VW;
     text-decoration: none;
+    
+    
 }
 
 button{
@@ -29,27 +36,8 @@ button{
     background-color: black;
     color: white;
     text-align: center;
-    height: 30px;
+    height: 80px;
 }
-
-#b1{
-    display: inline-block;
-    height: 100px;
-    width: 100px;
-    background-color: rgba(255,0,0,0.5);
-    border: 2px solid black;
-}
-#b2{
-    display: inline-block;
-    height: 100px;
-    width: 100px;
-    background-color: rgba(0,255,0,0.5);
-    border: 2px solid black;
-}
-#b3{
-    display: inline-block;
-    height: 100px;
-    width: 100px;
-    background-color: rgba(0,0,255,0.5);
-    border: 2px solid black;
+#cr{
+    margin-top: 50px;
 }
