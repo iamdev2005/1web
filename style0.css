@@ -1,16 +1,15 @@
 #nb{
     height: 30px;
+    width: 100VW;
     background-color: black;
 }
 
-#lb{
-    height: 50px;
-    background-color: black;
-}
+
 #logo{
     color: orange;
     text-decoration: none;
     margin-left: 20px;
+    margin-top: 30PX;
     
     font-size: 40px;
 }
@@ -25,6 +24,7 @@
     margin-top: 5px;
     margin-left: 7VW;
     text-decoration: none;
+    
     
 }
 
