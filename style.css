@@ -22,7 +22,7 @@
 .buy{
     color: white;
     margin-top: 5px;
-    margin-left: 6VW;
+    margin-left: 5VW;
     text-decoration: none;
     
     
@@ -37,7 +37,5 @@ button{
     color: white;
     text-align: center;
     height: 80px;
-}
-#cr{
-    margin-top: 50px;
+    
 }
